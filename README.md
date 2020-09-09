@@ -10,3 +10,4 @@ Doggo Generator was my first independent React app, that was set up initially us
 - Setting up a React project using CRA
 - Fetching data from URL and converting the response to JSON
 - Displaying the image with a newly generated image URL on click
+- Styling a React app with a CSS stylesheet
