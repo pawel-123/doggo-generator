@@ -4,10 +4,10 @@ Doggo Generator is an app that displays a random dog picture on each click from 
 
 ## Technology
 
-Doggo Generator was my first independent React app, that was set up initially using the [Create React App](https://github.com/facebook/create-react-app) boilerplate.
+Doggo Generator was my first React app, that was set up initially using the [Create React App](https://github.com/facebook/create-react-app) boilerplate.
 
 ## Learnings
 - Setting up a React project using CRA
 - Fetching data from URL and converting the response to JSON
 - Displaying the image with a newly generated image URL on click
-- Styling a React app with a CSS stylesheet
+- Styling a React app with vanilla CSS stylesheet
